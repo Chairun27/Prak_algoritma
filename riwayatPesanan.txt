@@ -1,0 +1,12 @@
+Nama        : Fatimah Raichana
+Jenis Roti  : Roti gandum
+Total Harga : Rp 20000
+================================
+Nama        : Muhammad Firdaus
+Jenis Roti  : Roti pisang keju
+Total Harga : Rp 5000
+================================
+Nama        : Alfeandra Dewangga
+Jenis Roti  : Cake ulang tahun
+Total Harga : Rp 30000
+================================
